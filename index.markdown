@@ -23,3 +23,4 @@ There is nothing more satisfying for me than effecting a complete garden transfo
 It made sense to pursue what I love and set up Kerb Appeal in September 2020 to use my skills and energy to make the most of peoples’ gardens and outdoor space: the first thing people see when they visit your home.
 
 This is a passion as much as a job. Give me a call if you would like us to collaborate on making your surroundings a pleasant and inspiring place to be.
+ 
