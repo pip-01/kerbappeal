@@ -5,7 +5,7 @@
 layout: home
 ---
 
- <img src="../img sm/kp.jpg" alt="Karen Parr photo">
+ <img src="/kp_blog/img sm/kp.jpg" alt="Karen Parr photo">
 
 To contact me:
 
