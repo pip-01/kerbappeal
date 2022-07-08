@@ -20,7 +20,7 @@ permalink: /about/
             function swapImage() {
                 curPic = (++curPic > picPaths.length-1)? 0 : curPic;
                 imgCont.src = imgO[curPic].src;
-                setTimeout(swapImage,2000);
+                setTimeout(swapImage,4000);
             }
 
             window.onload=function() {
