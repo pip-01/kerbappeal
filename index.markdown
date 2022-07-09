@@ -5,7 +5,7 @@
 layout: home
 ---
 
- <img src="../img sm/cropped-KERB_APPEAL-v2.png" alt="kerb appeal logo">
+ <img src="../img sm/KA.jpg" alt="kerb appeal logo">
 
 To contact me:
 
