@@ -6,7 +6,7 @@ layout: home
 ---
 
  <img src="../img sm/KA.jpg" alt="kerb appeal logo">
-
+ 
 To contact me:
 
       email: parr.karen@gmail.com
