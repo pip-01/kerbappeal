@@ -18,3 +18,6 @@ Whether you are planning to sell your property, host a special event, or simply 
 
 * Staging: We can enhance your outdoor space further with temporary staging, We will bring in pots, planters, furniture, etc to add style and colour.
 Contact us for a free assessment of your property. We will work with you and your budget to smarten up your outdoor space.
+
+
+
