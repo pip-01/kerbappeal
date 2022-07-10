@@ -7,10 +7,6 @@ layout: home
 
  <img src="../img sm/KA.jpg" alt="kerb appeal logo">
  
-To contact me:
-
-      email: parr.karen@gmail.com
-      phone: 027 209 4832
 
 ## GARDEN / OUTDOOR MAKEOVERS
 
