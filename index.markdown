@@ -20,4 +20,4 @@ Whether you are planning to sell your property, host a special event, or simply 
 Contact us for a free assessment of your property. We will work with you and your budget to smarten up your outdoor space.
 
 
-# phone: 027 209 4832
+phone: 027 209 4832
